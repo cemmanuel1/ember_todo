@@ -1,1 +1,1 @@
-application.js
+window.Todos = Ember.Application.create();
